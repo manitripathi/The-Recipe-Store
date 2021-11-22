@@ -1,0 +1,28 @@
+.footerContact{
+    margin-top: 50px;
+
+}
+.Heading{
+    color:#2c5d63;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.line{
+    border: 2px orange solid;
+    width:200px;
+    margin-bottom: 50px;
+}
+.main{
+    border: 2px solid greenyellow;
+    width:400px;
+    height:300px;
+    background-color: greenyellow;
+}
+.main1{
+    color:#347474;
+    text-align: center;
+}
+.main11{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
